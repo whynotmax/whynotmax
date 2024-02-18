@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend and backend developer from Germany</h3>
 
 <a href="https://visitcount.itsvg.in" align="center">
-  <img src="https://visitcount.itsvg.in/api?id=whynotmax&label=Profile%20Views&color=12&icon=6&pretty=true" />
+  <p align="center"><img src="https://visitcount.itsvg.in/api?id=whynotmax&label=Profile%20Views&color=12&icon=6&pretty=true" /></p>
 </a>
 
 - 🔭 I’m currently working on **small projects**
