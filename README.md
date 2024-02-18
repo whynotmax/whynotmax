@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate frontend and backend developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoismax&label=Profile%20views&color=0e75b6&style=flat" alt="keinesecrets" /> </p>
+<a href="https://visitcount.itsvg.in" align="center">
+  <img src="https://visitcount.itsvg.in/api?id=whynotmax&label=Profile%20Views&color=12&icon=6&pretty=true" />
+</a>
 
 - 🔭 I’m currently working on **small projects**
 
