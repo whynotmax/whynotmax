@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 👨‍💻 All of my projects are available at [my github profile](https://github.com/KeineSecrets/repositories)
+- 👨‍💻 All of my projects are available at [my github profile](https://github.com/whynotmax?tab=repositories)
 
 - 📫 How to reach me **max@keinesecrets.de**
 
