@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **small projects**
 
-- 🌱 I’m currently learning **MongoDB and web development**
+- 🌱 I’m currently learning **MongoDB, Redisson and web development**
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 👨‍💻 All of my projects are available at [github.com/KeineSecrets](github.com/KeineSecrets)
+- 👨‍💻 All of my projects are available at [my github profile](github.com/KeineSecrets/repositories)
 
 - 📫 How to reach me **max@keinesecrets.de**
 
