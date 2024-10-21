@@ -11,5 +11,6 @@ title My Journey
 : CSS
 15 y/o : JavaScript
 17 y/o : Python
+18 y/o : Kotlin
 ```
 
