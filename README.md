@@ -4,10 +4,10 @@ I'm a passionate, 18 year-old developer who loves to explore new technologies an
 
 ## About Me
 
-- 🌱 I’m currently learning [redisson, kotlin and python]
-- 👯 I’m looking to collaborate on [any java related projects]
-- 📫 How to reach me: [https://instagram.com/1161.max.og]
-- ⚡ Fun fact: [i'm currently learning "care worker"]
+- 🌱 I’m currently learning **redisson, kotlin and python**
+- 👯 I’m looking to collaborate on **any java related projects**
+- 📫 How to reach me: **https://instagram.com/1161.max.og**
+- ⚡ Fun fact: **i'm currently learning "care worker"**
 
 ## My GitHub Stats
 
