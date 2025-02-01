@@ -21,6 +21,7 @@ I'm a passionate, 18 year-old developer who loves to explore new technologies an
 
 - [RedisQ](https://github.com/whynotmax/RedisQ): A simple minecraft server queue system built with gradle and redisson. 1.19+
 - [password-strength-checker](https://github.com/whynotmax/password-strength-checker): The "password-strength-checker" is a Python tool that evaluates password strength based on multiple criteria to help users create more secure passwords.
+- [LibraryManagemenrSystem](https://github.com/whynotmax/LibraryManagementSystem): Simple console interface for libraries built in Java. It's around two years old as I used it for learning purposes.
 
 ## Connect with Me
 
