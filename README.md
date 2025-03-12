@@ -7,7 +7,7 @@ I'm a passionate, 18 year-old developer who loves to explore new technologies an
 - 🌱 I’m currently learning **redisson, kotlin and python**
 - 👯 I’m looking to collaborate on **any java related projects**
 - 📫 How to reach me: **[On Instagram (DM)](https://instagram.com/44.max.og)**
-- ⚡ Fun fact: **i'm currently learning "care worker"**
+- ⚡ Fun fact: **I enlisted at the german army a few months ago, waiting for response xd**
 
 ## My GitHub Stats
 
