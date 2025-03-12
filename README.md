@@ -23,7 +23,7 @@ I'm a passionate, 18 year-old developer who loves to explore new technologies an
 - [password-strength-checker](https://github.com/whynotmax/password-strength-checker): The "password-strength-checker" is a Python tool that evaluates password strength based on multiple criteria to help users create more secure passwords.
 - [LibraryManagementSystem](https://github.com/whynotmax/LibraryManagementSystem): Simple console interface for libraries built in Java. It's around two years old as I used it for learning purposes.
 - mcrealms.gg: My own minehut oriented approach with own minigames. Users can create custom realms, install mods and or plugins, and more. This will be a private project for now, yet to decide if I want to make it public or not.
-- SkySlayer: Around since mid 2018. SkyPvP / CityBuild server. Started at version 1.8.8, now recoding it to 1.20.4+. Project will not be public, as I intend to release this server. [Click here to join the discord](https://discord.gg/4zXkgYUuue).
+- SkySlayer: Around since mid 2017 (almost 10 years, wow). SkyPvP / CityBuild server. Started at version 1.8.8, now recoding it to 1.20.4+. Project will not be public, as I intend to release this server. [Click here to join the discord](https://discord.gg/4zXkgYUuue).
 
 ## Connect with Me
 
